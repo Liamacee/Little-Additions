@@ -1,0 +1,13 @@
+{
+  "values": {
+    "littleadditions:tiny_coal": {
+      "burn_time": 200
+    },
+    "littleadditions:tiny_charcoal": {
+      "burn_time": 200
+    },
+    "littleadditions:charcoal_block": {
+      "burn_time": 16000
+    }
+  }
+}
