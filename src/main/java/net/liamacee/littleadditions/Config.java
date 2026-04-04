@@ -14,10 +14,10 @@ public class Config {
 
     public static final ModConfigSpec.IntValue TINY_COAL_BURN_TIME = BUILDER
             .comment("How long does the Tiny Coal burn (In Ticks)")
-            .defineInRange("tinyCoalBurnRate", 200, 0, Integer.MAX_VALUE);
+            .defineInRange("tinyCoalBurnTime", 200, 0, Integer.MAX_VALUE);
     public static final ModConfigSpec.IntValue TINY_CHARCOAL_BURN_TIME = BUILDER
             .comment("How long does the Tiny Charcoal burn (In Ticks)")
-            .defineInRange("tinyCharcoalBurnRate", 200, 0, Integer.MAX_VALUE);
+            .defineInRange("tinyCharcoalBurnTime", 200, 0, Integer.MAX_VALUE);
 
     static final ModConfigSpec SPEC = BUILDER.build();
 
