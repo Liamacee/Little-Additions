@@ -11,13 +11,12 @@ import net.neoforged.neoforge.common.ModConfigSpec;
 public class Config {
     private static final ModConfigSpec.Builder BUILDER = new ModConfigSpec.Builder();
 
-
-    public static final ModConfigSpec.IntValue TINY_COAL_BURN_TIME = BUILDER
+    /* public static final ModConfigSpec.IntValue TINY_COAL_BURN_TIME = BUILDER
             .comment("How long does the Tiny Coal burn (In Ticks)")
             .defineInRange("tinyCoalBurnTime", 200, 0, Integer.MAX_VALUE);
     public static final ModConfigSpec.IntValue TINY_CHARCOAL_BURN_TIME = BUILDER
             .comment("How long does the Tiny Charcoal burn (In Ticks)")
-            .defineInRange("tinyCharcoalBurnTime", 200, 0, Integer.MAX_VALUE);
+            .defineInRange("tinyCharcoalBurnTime", 200, 0, Integer.MAX_VALUE); */
 
     static final ModConfigSpec SPEC = BUILDER.build();
 }
