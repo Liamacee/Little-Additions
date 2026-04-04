@@ -1,6 +1,7 @@
 package net.liamacee.littleadditions.item;
 
 import net.liamacee.littleadditions.LittleAdditions;
+import net.liamacee.littleadditions.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -20,6 +21,7 @@ public class ModCreativeModeTabs {
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.TINY_COAL);
                         output.accept(ModItems.TINY_CHARCOAL);
+                        output.accept(ModBlocks.CHARCOAL_BLOCK);
                     }).build());
 
     public static void register(IEventBus eventBus) {

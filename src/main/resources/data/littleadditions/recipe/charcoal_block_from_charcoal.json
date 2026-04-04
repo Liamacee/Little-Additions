@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CCC","CCC","CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:charcoal"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "littleadditions:charcoal_block"
+  }
+}

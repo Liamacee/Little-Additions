@@ -2,5 +2,7 @@
 "creativetab.littleadditions.little_additions_items": "Little Additions",
 
   "item.littleadditions.tiny_coal": "Tiny Coal",
-  "item.littleadditions.tiny_charcoal": "Tiny Charcoal"
+  "item.littleadditions.tiny_charcoal": "Tiny Charcoal",
+
+  "block.littleadditions.charcoal_block": "Block of Charcoal"
 }
