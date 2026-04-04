@@ -55,7 +55,7 @@ public class LittleAdditions {
             .alwaysEdible().nutrition(1).saturationModifier(2f).build()));
 
     // Creates a creative tab with the id "littleadditions:example_tab" for the example item, that is placed after the combat tab
-    public static final DeferredHolder<CreativeModeTab, CreativeModeTab> EXAMPLE_TAB = CREATIVE_MODE_TABS.register("example_tab", () -> CreativeModeTab.builder()
+    public static final DeferredHolder<CreativeModeTab, CreativeModeTab> EXAMPLE_TAB = CREATIVE_MODE_TABS.register("little_additions", () -> CreativeModeTab.builder()
             .title(Component.translatable("itemGroup.littleadditions")) //The language key for the title of your CreativeModeTab
             .withTabsBefore(CreativeModeTabs.COMBAT)
             .icon(() -> EXAMPLE_ITEM.get().getDefaultInstance())
