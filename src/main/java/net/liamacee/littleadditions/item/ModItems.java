@@ -1,6 +1,5 @@
 package net.liamacee.littleadditions.item;
 
-import net.liamacee.littleadditions.Config;
 import net.liamacee.littleadditions.LittleAdditions;
 import net.liamacee.littleadditions.item.custom.FuelItem;
 import net.minecraft.world.item.Item;
