@@ -1,13 +1,6 @@
 {
-  "itemGroup.littleadditions": "Little Additions",
-  "block.littleadditions.example_block": "Example Block",
-  "item.littleadditions.example_item": "Example Item",
+"creativetab.littleadditions.little_additions_items": "Little Additions",
 
-  "littleadditions.configuration.title": "Little Additions Configs",
-  "littleadditions.configuration.section.littleadditions.common.toml": "Little Additions Configs",
-  "littleadditions.configuration.section.littleadditions.common.toml.title": "Little Additions Configs",
-  "littleadditions.configuration.items": "Item List",
-  "littleadditions.configuration.logDirtBlock": "Log Dirt Block",
-  "littleadditions.configuration.magicNumberIntroduction": "Magic Number Text",
-  "littleadditions.configuration.magicNumber": "Magic Number"
+  "item.littleadditions.tiny_coal": "Tiny Coal",
+  "item.littleadditions.tiny_charcoal": "Tiny Charcoal"
 }

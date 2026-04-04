@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "littleadditions:item/tiny_coal"
+    "layer0": "littleadditions:item/tiny_charcoal"
   }
 }
