@@ -2,7 +2,6 @@ package net.liamacee.littleadditions;
 
 import net.liamacee.littleadditions.item.ModCreativeModeTabs;
 import net.liamacee.littleadditions.item.ModItems;
-import net.minecraft.world.item.CreativeModeTabs;
 import net.neoforged.neoforge.event.BuildCreativeModeTabContentsEvent;
 import org.slf4j.Logger;
 
@@ -53,6 +52,5 @@ public class LittleAdditions {
     // You can use SubscribeEvent and let the Event Bus discover methods to call
     @SubscribeEvent
     public void onServerStarting(ServerStartingEvent event) {
-
     }
 }
