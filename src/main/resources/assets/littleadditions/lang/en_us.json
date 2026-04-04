@@ -1,0 +1,13 @@
+{
+  "itemGroup.littleadditions": "Example Mod Tab",
+  "block.littleadditions.example_block": "Example Block",
+  "item.littleadditions.example_item": "Example Item",
+
+  "littleadditions.configuration.title": "Little Additions Configs",
+  "littleadditions.configuration.section.littleadditions.common.toml": "Little Additions Configs",
+  "littleadditions.configuration.section.littleadditions.common.toml.title": "Little Additions Configs",
+  "littleadditions.configuration.items": "Item List",
+  "littleadditions.configuration.logDirtBlock": "Log Dirt Block",
+  "littleadditions.configuration.magicNumberIntroduction": "Magic Number Text",
+  "littleadditions.configuration.magicNumber": "Magic Number"
+}
